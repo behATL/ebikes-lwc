@@ -1,5 +1,5 @@
 /**
- * BH Comment - sdss An apex page controller that takes the user to the right start page based on credentials or lack thereof
+ * 8/8 BH Comment - sdss An apex page controller that takes the user to the right start page based on credentials or lack thereof
  */
 public with sharing class CommunitiesLandingController {
     // Code we will invoke on page load.
